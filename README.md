@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+
 
 # Project Name
 
-> One paragraph statement about the project.
+> Calendario de eventos web.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- PHP, Mysql, JS
 
 ## Live Demo
 
