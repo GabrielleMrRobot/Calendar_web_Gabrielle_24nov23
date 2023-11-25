@@ -1,6 +1,6 @@
 
 
-# Project Name
+# Project Name - nombre de proyecto
 
 > Calendario de eventos web.
 
@@ -10,7 +10,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- PHP, Mysql, JS
+- PHP, Mysql, JS se utilizo librerias de fullcalendar y jquery para la construccion del calendario.
 
 ## Live Demo
 
